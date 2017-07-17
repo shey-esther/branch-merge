@@ -1,2 +1,4 @@
 buen dias
+<<<<<<< HEAD
 buenas tardes :)
+
